@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfinixSoft iOS test/MealTableViewCell.swift"
+            timestampString = "471859680.714234"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MealTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfinixSoft_iOS_test.MealTableViewCell.ratingControl.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;InfinixSoft_iOS_test.RatingControl&gt;"
+                  moduleName = "InfinixSoft iOS test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianknapp/Desktop/iOS/iOS/InfinixSoft%20iOS%20test/InfinixSoft%20iOS%20test/MealTableViewCell.swift"
+                  timestampString = "471860233.9886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfinixSoft_iOS_test.MealTableViewCell.ratingControl.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;InfinixSoft_iOS_test.RatingControl&gt;"
+                  moduleName = "InfinixSoft iOS test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianknapp/Desktop/iOS/iOS/InfinixSoft%20iOS%20test/InfinixSoft%20iOS%20test/MealTableViewCell.swift"
+                  timestampString = "471860233.988895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfinixSoft_iOS_test.MealTableViewCell.init (InfinixSoft_iOS_test.MealTableViewCell.Type)(style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; InfinixSoft_iOS_test.MealTableViewCell"
+                  moduleName = "InfinixSoft iOS test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianknapp/Desktop/iOS/iOS/InfinixSoft%20iOS%20test/InfinixSoft%20iOS%20test/MealTableViewCell.swift"
+                  timestampString = "471860233.989234"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfinixSoft_iOS_test.MealTableViewCell.init (InfinixSoft_iOS_test.MealTableViewCell.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;InfinixSoft_iOS_test.MealTableViewCell&gt;"
+                  moduleName = "InfinixSoft iOS test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adrianknapp/Desktop/iOS/iOS/InfinixSoft%20iOS%20test/InfinixSoft%20iOS%20test/MealTableViewCell.swift"
+                  timestampString = "471860233.989556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

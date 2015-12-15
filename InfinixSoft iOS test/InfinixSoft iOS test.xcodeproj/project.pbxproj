@@ -15,6 +15,17 @@
 		0D9E6DC51C1EE37B009587AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D9E6DC31C1EE37B009587AF /* LaunchScreen.storyboard */; };
 		0D9E6DD01C1EE37B009587AF /* InfinixSoft_iOS_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DCF1C1EE37B009587AF /* InfinixSoft_iOS_testTests.swift */; };
 		0D9E6DDB1C1EE37B009587AF /* InfinixSoft_iOS_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DDA1C1EE37B009587AF /* InfinixSoft_iOS_testUITests.swift */; };
+		0D9E6DEC1C1F6A52009587AF /* RatingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DEB1C1F6A52009587AF /* RatingController.swift */; };
+		0D9E6DEE1C1FD09D009587AF /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DED1C1FD09D009587AF /* Meal.swift */; };
+		0D9E6DEF1C1FD09D009587AF /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DED1C1FD09D009587AF /* Meal.swift */; };
+		0D9E6DF41C1FE272009587AF /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DF31C1FE272009587AF /* MealTableViewController.swift */; };
+		0D9E6DF51C1FE272009587AF /* MealTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DF31C1FE272009587AF /* MealTableViewController.swift */; };
+		0D9E6DF91C200D71009587AF /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DF81C200D71009587AF /* MealTableViewCell.swift */; };
+		0D9E6DFA1C200D71009587AF /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DF81C200D71009587AF /* MealTableViewCell.swift */; };
+		0D9E6DFB1C200D71009587AF /* MealTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DF81C200D71009587AF /* MealTableViewCell.swift */; };
+		0D9E6DFD1C200F15009587AF /* MealViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DFC1C200F15009587AF /* MealViewController.swift */; };
+		0D9E6DFE1C200F15009587AF /* MealViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DFC1C200F15009587AF /* MealViewController.swift */; };
+		0D9E6DFF1C200F15009587AF /* MealViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D9E6DFC1C200F15009587AF /* MealViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +60,11 @@
 		0D9E6DD61C1EE37B009587AF /* InfinixSoft iOS testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "InfinixSoft iOS testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D9E6DDA1C1EE37B009587AF /* InfinixSoft_iOS_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfinixSoft_iOS_testUITests.swift; sourceTree = "<group>"; };
 		0D9E6DDC1C1EE37B009587AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D9E6DEB1C1F6A52009587AF /* RatingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingController.swift; sourceTree = "<group>"; };
+		0D9E6DED1C1FD09D009587AF /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		0D9E6DF31C1FE272009587AF /* MealTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MealTableViewController.swift; path = ../MealTableViewController.swift; sourceTree = "<group>"; };
+		0D9E6DF81C200D71009587AF /* MealTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MealTableViewCell.swift; path = ../MealTableViewCell.swift; sourceTree = "<group>"; };
+		0D9E6DFC1C200F15009587AF /* MealViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +117,12 @@
 			children = (
 				0D9E6DB71C1EE37B009587AF /* AppDelegate.swift */,
 				0D9E6DB91C1EE37B009587AF /* ViewController.swift */,
+				0D9E6DEB1C1F6A52009587AF /* RatingController.swift */,
 				0D9E6DBB1C1EE37B009587AF /* Main.storyboard */,
+				0D9E6DF31C1FE272009587AF /* MealTableViewController.swift */,
+				0D9E6DF81C200D71009587AF /* MealTableViewCell.swift */,
+				0D9E6DED1C1FD09D009587AF /* Meal.swift */,
+				0D9E6DFC1C200F15009587AF /* MealViewController.swift */,
 				0D9E6DC11C1EE37B009587AF /* Assets.xcassets */,
 				0D9E6DC31C1EE37B009587AF /* LaunchScreen.storyboard */,
 				0D9E6DC61C1EE37B009587AF /* Info.plist */,
@@ -259,8 +280,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D9E6DEC1C1F6A52009587AF /* RatingController.swift in Sources */,
+				0D9E6DFD1C200F15009587AF /* MealViewController.swift in Sources */,
+				0D9E6DF41C1FE272009587AF /* MealTableViewController.swift in Sources */,
+				0D9E6DF91C200D71009587AF /* MealTableViewCell.swift in Sources */,
 				0D9E6DC01C1EE37B009587AF /* InfinixSoft_iOS_test.xcdatamodeld in Sources */,
 				0D9E6DBA1C1EE37B009587AF /* ViewController.swift in Sources */,
+				0D9E6DEE1C1FD09D009587AF /* Meal.swift in Sources */,
 				0D9E6DB81C1EE37B009587AF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,6 +295,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D9E6DFA1C200D71009587AF /* MealTableViewCell.swift in Sources */,
+				0D9E6DFE1C200F15009587AF /* MealViewController.swift in Sources */,
+				0D9E6DEF1C1FD09D009587AF /* Meal.swift in Sources */,
+				0D9E6DF51C1FE272009587AF /* MealTableViewController.swift in Sources */,
 				0D9E6DD01C1EE37B009587AF /* InfinixSoft_iOS_testTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,7 +307,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D9E6DFB1C200D71009587AF /* MealTableViewCell.swift in Sources */,
 				0D9E6DDB1C1EE37B009587AF /* InfinixSoft_iOS_testUITests.swift in Sources */,
+				0D9E6DFF1C200F15009587AF /* MealViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -486,6 +518,7 @@
 				0D9E6DE11C1EE37B009587AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D9E6DE21C1EE37B009587AF /* Build configuration list for PBXNativeTarget "InfinixSoft iOS testTests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +527,7 @@
 				0D9E6DE41C1EE37B009587AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D9E6DE51C1EE37B009587AF /* Build configuration list for PBXNativeTarget "InfinixSoft iOS testUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +536,7 @@
 				0D9E6DE71C1EE37B009587AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
